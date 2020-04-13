@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
-@import "nav.css";
-@import "footer.css";
+@import "/styles/nav.css";
+@import "/styles/footer.css";
 
 * {
   box-sizing: border-box;
