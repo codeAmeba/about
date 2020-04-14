@@ -1,4 +1,4 @@
-## 정수영(codeAmeba)의 소개 페이지입니다.
+## 정수영(codeAmeba)의 소개 페이지입니다. (작업중)
 - https://codeameba.github.io/about/
 
 ### 개인 블로그
