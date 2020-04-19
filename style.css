@@ -61,7 +61,6 @@ h1 {
 .img-box img {
   max-width: 350px;
   height: auto;
-  border-radius: 5%;
   transform: rotateY(0deg);
   transition: transform 0.7s ease-in-out;
 }
@@ -69,6 +68,11 @@ h1 {
 .img-box img:hover {
   transform: rotateY(-180deg);
   transition: transform 0.7s ease-in-out;
+}
+
+.mbti-img img {
+  max-width: 50vw;
+  height: auto;
 }
 
 .text-container {
