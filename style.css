@@ -112,6 +112,10 @@ hr {
   }
 }
 
+.mbti > p:first-child {
+  font-size: 1.2em;
+}
+
 
 /* footer */
 .footer {
